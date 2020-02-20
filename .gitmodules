@@ -10,3 +10,7 @@
 	path = packages/dashed-tubes
 	url = git@github.com:evanberkowitz/mma-dashed-tubes.git
 	branch = master
+[submodule "markers"]
+	path = packages/markers
+	url = git@github.com:evanberkowitz/PolygonPlotMarkers.git
+	branch = master
