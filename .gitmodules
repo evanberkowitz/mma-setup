@@ -1,12 +1,12 @@
 [submodule "let"]
-	path = packages/mma-let
+	path = packages/let
 	url = git@github.com:evanberkowitz/mma-let.git
 [submodule "sprintf"]
-	path = packages/mma-sprintf
+	path = packages/sprintf
 	url = git@github.com:evanberkowitz/mma-sprintf.git
 [submodule "dashed-tubes"]
-	path = packages/mma-dashed-tubes
+	path = packages/dashed-tubes
 	url = git@github.com:evanberkowitz/mma-dashed-tubes.git
 [submodule "plot-markers"]
-	path = packages/PolygonPlotMarkers.git
+	path = packages/PolygonPlotMarkers
 	url = git@github.com:evanberkowitz/PolygonPlotMarkers.git
